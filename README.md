@@ -51,7 +51,8 @@ Inputs:
 - A chromosome ID conversion text file
 
 Outputs:
-A  text file labeled “Prom_2_Gene” and separated into columns by: 
+A DataFrame and matching text file labeled “Prom_2_Gene”
+separated into columns by: 
 - Promoter Number
 - Chromosome Number 
 - PROM Start
