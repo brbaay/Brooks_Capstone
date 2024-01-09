@@ -58,7 +58,7 @@ separated into columns by:
 - Chromosome Number 
 - PROM Start
 - PROM Stop
-- Strand (designated by "+"/"-"
+- Strand (designated by "+"/"-")
 - GENE Start
 - GENE Stop
 - GENE ID
